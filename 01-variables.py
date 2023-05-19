@@ -43,3 +43,7 @@ age = "Gregorio"
 print(name)
 print(age)
 
+# Forzamos el tipo
+address: str = "Mi direccion"
+address = 32 # al especificar un valor diferente el tipo de variable cambia
+print(type(address)) 
