@@ -26,5 +26,5 @@ print(my_sum_tuple[3:6])
 my_tuple = list(my_tuple) # se reasigna su tipo, se convirtio a lista, para poder modificarla
 print(type(my_tuple))
 
-del my_tuple #del trabaja con variables
+del my_tuple #del elimina el objeto, ya no existe y no lo va imprimir
 #print(my_tuple) NameError: name 'my_tuple' is not defined
