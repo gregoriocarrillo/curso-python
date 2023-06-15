@@ -1,5 +1,5 @@
 ### Tuples ###
-# es un conjunto de valores, es inmutable
+# es un conjunto de valores fijos, es inmutable
 
 my_tuple = tuple()
 my_other_tuple = ()
