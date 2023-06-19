@@ -41,7 +41,7 @@ print("Apellido" in my_dict)
 
 print(my_dict.items())
 print(my_dict.keys())
-print(my_dict.values())
+print(my_dict.values()) # imprime el valor de la clave
 
 my_list = ["Nombre", 1, "Piso"]
 
