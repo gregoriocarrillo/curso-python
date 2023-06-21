@@ -1,4 +1,3 @@
-
 def sumValue(numberOne, numberTwo, numberThree):
     print(numberOne + numberTwo + numberThree)
 
